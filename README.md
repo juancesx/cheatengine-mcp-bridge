@@ -83,7 +83,7 @@ You're staring at gigabytes of memory. Millions of addresses. Thousands of funct
 
 ---
 
-## nstallation
+## Installation
 
 ```bash
 pip install -r MCP_Server/requirements.txt
