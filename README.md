@@ -6,8 +6,6 @@
 
 Connect Cursor, Copilot, Antigravity or your favorite local AI agent via RooCode/Cline directly to Cheat Engine to create mods, trainers, security audits or do anything else with any program/game in a fraction of a time.
 
-> **Stop clicking through hex dumps and start having conversations with the memory.**
-
 [![Version](https://img.shields.io/badge/version-11.4.0-blue.svg)](#) [![Python](https://img.shields.io/badge/python-3.10%2B-green.svg)](https://python.org)
 
 ---
@@ -24,6 +22,8 @@ You're staring at gigabytes of memory. Millions of addresses. Thousands of funct
 > *"Find the unique AOB pattern to make my trainer reliable after game updates."*
 
 **That's exactly what this does.**
+
+_- Stop clicking through hex dumps and start having conversations with the memory._
 
 ---
 
